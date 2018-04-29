@@ -1,1 +1,2 @@
-# selenium_python_doubleClick_IFeelLucky
+# FireFox: selenium_python_doubleClick_IFeelLucky
+  DOES NOT work for Chrome.... If anyone can figure out why...
